@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amir Hilal</h1>
 <h3 align="center">Junior software engineer</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt = "Software Engineer" width = "400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 - 🔭 I’m currently working on **SE factory bootcamp Final Project**
 
 - 🌱 I’m currently learning **ReactJS, Laravel**
