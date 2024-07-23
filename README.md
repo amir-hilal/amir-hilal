@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amiramirhilal@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1QSGE3vhMrvHH60wY1iL0vzB6XhA4-5zr/edit?usp=drive_link&ouid=102780313787837301498&rtpof=true&sd=true](https://docs.google.com/document/d/1QSGE3vhMrvHH60wY1iL0vzB6XhA4-5zr/edit?usp=drive_link&ouid=102780313787837301498&rtpof=true&sd=true)
+- 📄 Know about my experiences [Amir-Hilal-CV](https://docs.google.com/document/d/1QSGE3vhMrvHH60wY1iL0vzB6XhA4-5zr/edit?usp=drive_link&ouid=102780313787837301498&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I am an athlete**
 
