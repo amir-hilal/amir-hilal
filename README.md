@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **SE factory bootcamp Final Project**
 
-- 🌱 I’m currently learning **ReactJS, Laravel**
+- 🌱 I’m currently learning **MLFlow, FastAPI**
 
-- 💬 Ask me about **Angular, firebase, NestJs, Saas**
+- 💬 Ask me about **Angular, firebase, NestJs, Saas, AWS, ReactJS, Laravel**
 
 - 📫 How to reach me **amiramirhilal@gmail.com**
 
