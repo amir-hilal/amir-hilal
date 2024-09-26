@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MLFlow, FastAPI**
 
-- 💬 Ask me about **Angular, firebase, NestJs, Saas, AWS, ReactJS, Laravel**
+- 💬 Ask me about **Angular, firebase, NestJs, Saas, AWS, ReactJs, Laravel**
 
 - 📫 How to reach me **amiramirhilal@gmail.com**
 
