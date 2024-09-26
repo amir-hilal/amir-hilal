@@ -2,7 +2,7 @@
 <h3 align="center">Junior software engineer</h3>
 <img align="right" alt = "Software Engineer" width = "400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-- ✔ Completed **[SE factory](https://sefactory.io/) Full Stack Web devemopment bootcamp**
+- ✔ Completed **[SE factory](https://sefactory.io/) Full Stack Web development bootcamp**
 
 - 🌱 I’m currently learning **MLFlow, FastAPI**
 
