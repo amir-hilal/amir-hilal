@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I'm Amir Hilal</h1>
-<h3 align="center">Junior software engineer</h3>
+<h1 align="center">Amir Hilal</h1>
+<h3 align="center">Full Stack Software Engineer</h3>
 <img align="right" alt = "Software Engineer" width = "400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-- ✔ Completed **[SE factory](https://sefactory.io/) Full Stack Web development bootcamp**
+- 🧠 3+ years of experience - expert with React and Firebase 
 
-- 🌱 I’m currently learning **MLFlow, FastAPI**
+-  ✔ Completed **[SE factory](https://sefactory.io/) Full Stack Web development bootcamp**
 
-- 💬 Ask me about **Angular, firebase, NestJs, Saas, AWS, ReactJs, Laravel**
+- 🌱 I’m currently learning **Machine Learning, MLFlow, FastAPI**
+
+- 💬 Ask me about **Angular, NestJs, Saas, AWS, Laravel, **
 
 - 📫 How to reach me **amiramirhilal@gmail.com**
 
-- 📄 Know about my experiences [Amir-Hilal-CV](https://docs.google.com/document/d/1QSGE3vhMrvHH60wY1iL0vzB6XhA4-5zr/edit?usp=drive_link&ouid=102780313787837301498&rtpof=true&sd=true)
+- 📄 Know about my experiences [Amir-Hilal-CV](https://docs.google.com/document/d/1ArMSkBgaY2qxDLjnDMEBAhsnho9C942M/edit?usp=sharing&ouid=102780313787837301498&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I am an athlete**
 
