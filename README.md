@@ -100,10 +100,10 @@ Tech stack: React, Redux, Firebase, Socket.IO, Vite, MUI
 
 ## Education
 
-**Bachelor of Science in Computer Science**  
+**Bachelor of Science in Computer Science**
 American University of Science and Technology
 
-**Full Stack Web Development Bootcamp**  
+**Full Stack Web Development Bootcamp**
 SE Factory
 
 ---
