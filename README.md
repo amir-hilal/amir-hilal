@@ -84,6 +84,18 @@ Tech: Python, FastAPI, scikit-learn, LightGBM, Docker, Google Cloud Run, Vercel,
 Demo: [Link](#https://real-estate-ui-green.vercel.app/) | 
 Repo: [Link](#https://github.com/amir-hilal/real-estate-ai) 
 
+
+### Decision Intelligence Assistant
+Decision system for customer support teams that turns model comparisons into clear deployment decisions across speed, cost, and answer quality.
+
+- What it does: comparison framework for customer support workflows that evaluates RAG vs non-RAG responses and ML vs LLM predictions on the same inputs.
+- Technical highlight: runs retrieval, ML scoring, and LLM generation in parallel, with structured logging and evaluation pipelines measuring latency, cost, and quality end to end.
+- Insight: produces actionable conclusions on when ML is sufficient, when LLMs add decision value, and when RAG materially improves outcomes.
+
+Tech: FastAPI, React, Chroma (vector DB), scikit-learn, LLM APIs, Docker
+
+Repo: [Link](#https://github.com/amir-hilal/twitter-customer-support-models-comparison)
+
 ### AI Commerce Agent
 Real-time AI commerce assistant built to improve product discovery and customer support workflows.
 
