@@ -1,46 +1,28 @@
-<h1 align="center">Amir Hilal</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+# Amir Hilal
 
-<p align="center">
-Building scalable web systems, AI-powered applications, and real-time platforms.
-</p>
+## AI Systems Engineer | Product & Automation Focus
 
----
-
-## Resume
-
-[View Resume (Google Docs)](https://docs.google.com/document/d/1sJG_P0he3URj6wKypCTZCkXJyqCLg1ZE/edit?usp=sharing&ouid=102780313787837301498&rtpof=true&sd=true)
+I design and build AI-powered systems that automate workflows, scale products, and deliver measurable business impact.
+I operate at the intersection of software engineering, AI systems, and product thinking.
 
 ---
 
-## About Me
+## What I Actually Do
 
-I am a **Full Stack Software Engineer** with 3+ years of experience building scalable applications across frontend, backend, and cloud infrastructure.
-
-My work focuses on:
-
-- Designing **reliable system architectures**
-- Building **real-time applications**
-- Developing **AI-powered products**
-- Delivering **production-grade web systems**
-
-I enjoy solving complex engineering problems and turning ideas into scalable, maintainable software.
+- Design AI-driven systems that automate manual workflows and turn repetitive operations into scalable products.
+- Build real-time applications using event-driven architectures, streaming patterns, and Socket.IO-based communication layers.
+- Translate business problems into technical roadmaps, system designs, and production-ready implementations.
+- Prototype quickly with AI tools, then harden the solution for reliability, maintainability, and deployment.
+- Own systems end-to-end across architecture, backend logic, integration, and delivery.
 
 ---
 
 ## Current Focus
 
-- Real-time AI applications
-- Machine Learning pipelines
-- System architecture and distributed systems
-- Production-grade web applications
-
-Currently exploring:
-
-- **Machine Learning**
-- **MLflow**
-- **FastAPI**
-- **AI system design**
+- Real-time AI systems and streaming architectures
+- AI-powered automation and agent workflows
+- Scalable system design across multi-tenant and event-driven platforms
+- Bridging business needs with technical execution
 
 ---
 
@@ -52,29 +34,14 @@ Currently exploring:
 ### Backend
 - Node.js, Express, NestJS, FastAPI, Laravel
 
-### Databases
+### Data
 - PostgreSQL, MySQL, MongoDB, Firestore
 
 ### Cloud & DevOps
 - AWS, Docker, Firebase, GitHub Actions, Bitbucket Pipelines
 
-### AI / Machine Learning
+### AI / ML
 - TensorFlow, scikit-learn, MLflow, OpenAI APIs, Gemini
-
-### Tools
-- Postman, Figma, Confluence, Jira
-
----
-
-## Highlighted Projects
-
-| Project | What it is | Live Demo | Repo | Tech |
-|---|---|---|---|---|
-| Breast Cancer Detection ML System | Production ML pipeline for medical classification with MLflow tracking and containerized deployment | [Demo](https://breast-cancer-detection-ml.netlify.app) | [Repo](https://github.com/amir-hilal/breast-cancer-detection) | Python, scikit-learn, MLflow, FastAPI, Docker, AWS ECS |
-| AI-Powered E-commerce Chatbot | Real-time conversational AI integrated with Shopify for product discovery and customer assistance | [Demo](https://hilalpines-ai.web.app) | [Repo](https://github.com/amir-hilal/hilalpines-ai) | React, Node.js, Firebase, Socket.IO, OpenAI APIs, Shopify API |
-| PlantPulse | Full-stack platform for plant tracking and ML-based disease detection with real-time collaboration | [Demo](https://plantpulselb.vercel.app) | [Repo](https://github.com/amir-hilal/plant-pulse) | React, Laravel, TensorFlow, FastAPI, AWS |
-| Hilal Pines E-commerce | Full-stack ecommerce platform with product catalog, authentication, and order workflows | [Demo](https://hilalpines.netlify.app) | [Repo](https://github.com/amir-hilal/hilal-pines) | Angular, NestJS, Firebase, JWT |
-| FitHub | Trainer management platform for scheduling, training workflows, and client management | [Demo](https://fithublb.netlify.app) | [Repo](https://github.com/amir-hilal/fithub) | Angular, NestJS, PostgreSQL, OpenAI API |
 
 ---
 
@@ -82,49 +49,88 @@ Currently exploring:
 
 ### Software Engineer — ITXI
 
-Built a **multi-tenant frontend platform** supporting three production applications.
+- Built a multi-tenant frontend platform supporting 3 production applications.
+- Architected the frontend of an AI smart agent plugin integrated into https://beirut.com, serving live production users.
+- Implemented real-time communication systems with Socket.IO.
+- Contributed to architecture, CI/CD, and system scalability.
+- Collaborated with backend teams on AI integrations and workflow-driven features.
 
-Responsibilities:
-
-- System architecture design
-- Real-time communication systems
-- UI platform development
-- CI/CD pipelines
-- Code quality and PR reviews
-
-Tech stack: React, Redux, Firebase, Socket.IO, Vite, MUI
-
-> Most of my daily commits are living their best life in Bitbucket — ITXI ran on it, so GitHub only shows the side quests. 🙃
+Tech: React, Redux, Firebase, Socket.IO, Vite, MUI
 
 ---
 
-## Education
+## Featured Projects
 
-**Bachelor of Science in Computer Science**
-American University of Science and Technology
+### Baladiyati SaaS Platform (Private)
+Multi-tenant SaaS platform that lets municipalities launch and operate digital services without custom engineering.
 
-**Full Stack Web Development Bootcamp**
-SE Factory
+- What it does: enables municipalities to launch and manage websites through a multi-tenant SaaS model instead of building separate systems per tenant.
+- Technical highlight: uses Host-based routing for runtime domain resolution, per-tenant isolation, and shared deployment across tenants on one platform architecture.
+- System scope: spans multiple apps including the public site, admin dashboard, platform admin, and onboarding system.
+
+Tech: Next.js, TypeScript, Firebase (Firestore, Auth, Storage), Turborepo, pnpm, Vercel
+
+Demo (in progress): [Link](#https://www.baladiyati.app/)
+ | Repo: [Private](#)
+
+### AI Real Estate Price Estimator
+Decision-support system that turns conversational property input into explainable pricing estimates.
+
+- What it does: runs a conversational AI + structured prediction pipeline from LLM-based property extraction to ML valuation and LLM-generated explanation.
+- Technical highlight: separates extraction, prediction, and explanation into a full FastAPI pipeline, streams responses with SSE, and is deployed through Docker on Google Cloud Run with a Vercel UI.
+
+Tech: Python, FastAPI, scikit-learn, LightGBM, Docker, Google Cloud Run, Vercel, LLM APIs
+
+Demo: [Link](#https://real-estate-ui-green.vercel.app/) | 
+Repo: [Link](#https://github.com/amir-hilal/real-estate-ai) 
+
+### AI Commerce Agent
+Real-time AI commerce assistant built to improve product discovery and customer support workflows.
+
+- What it does: connects conversational AI with commerce flows so users can search products, ask questions, and get guided purchase support in real time.
+- Technical highlight: combines React, Node.js, Firebase, Socket.IO, and LLM APIs to support low-latency messaging and live product interactions.
+
+Tech: React, Node.js, Firebase, Socket.IO, OpenAI APIs, Shopify API
+
+App: [Link](#https://hilalpines.netlify.app) | 
+Repo: [Link](#https://github.com/amir-hilal/hilalpines-ai)
+
+### Breast Cancer Detection
+Production-oriented ML system for medical classification with experiment tracking and deployable inference services.
+
+- What it does: streamlines model training, evaluation, and prediction workflows for breast cancer classification.
+- Technical highlight: uses scikit-learn, MLflow, FastAPI, Docker, and AWS-ready deployment patterns to structure the pipeline as an operational system.
+
+Tech: Python, scikit-learn, MLflow, FastAPI, Docker, AWS ECS
+
+Demo: [Link](#https://breast-cancer-detection-ml.netlify.app/) | 
+Repo: [Link](#https://github.com/amir-hilal/breast-cancer-detection-front-end)
+
+### PlantPulse
+Full-stack platform that combines operational workflows, collaboration, and ML-based plant disease detection.
+
+- What it does: helps teams track plants, manage workflow data, and support diagnosis with machine learning features.
+- Technical highlight: integrates React, Laravel, TensorFlow, FastAPI, and cloud deployment patterns across a multi-service architecture.
+
+Tech: React, Laravel, TensorFlow, FastAPI, AWS
+
+App: [Link](#https://plantpulselb.vercel.app) | 
+Repo: [Link](#https://github.com/amir-hilal/plant-pulse)
+
+### FitHub
+Operational platform for trainer scheduling, client management, and workflow coordination.
+
+- What it does: centralizes training operations, scheduling, and client workflows in one product surface.
+- Technical highlight: pairs Angular and NestJS with PostgreSQL-backed business logic and AI-assisted workflow features.
+
+Tech: Angular, NestJS, PostgreSQL, OpenAI API
+
+App: [Link](#https://fithublb.netlify.app) | 
+Repo: [Link](#https://github.com/amir-hilal/fithub)
 
 ---
 
-## Connect With Me
+## Connect
 
 - Email: [amiramirhilal@gmail.com](mailto:amiramirhilal@gmail.com)
 - LinkedIn: [linkedin.com/in/amir-hilal](https://linkedin.com/in/amir-hilal)
-- GitHub: [github.com/amir-hilal](https://github.com/amir-hilal)
-- LeetCode: [leetcode.com/amirhilal044](https://leetcode.com/amirhilal044)
-
----
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=amir-hilal" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/github/followers/amir-hilal?label=Followers&style=social" alt="GitHub Followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/amir-hilal?label=Stars&style=social" alt="GitHub Stars"/>
-</p>
